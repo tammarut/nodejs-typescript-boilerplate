@@ -19,7 +19,7 @@
     "rimraf": "~5.0",
     "ts-api-utils": "~1.0",
     "ts-jest": "~29.1",
-    "typescript": "~5.1"
+    "typescript": "^5.1"
   },
   "scripts": {
     "start": "node build/src/main.js",
@@ -39,6 +39,6 @@
     "tslib": "~2.6"
   },
   "volta": {
-    "node": "18.12.1"
+    "node": "18.19.0"
   }
 }
