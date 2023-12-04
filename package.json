@@ -1,10 +1,11 @@
 {
-  "name": "node-typescript-boilerplate",
+  "name": "nodejs-typescript-boilerplate",
   "version": "0.0.0",
   "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
   "type": "module",
   "engines": {
-    "node": ">= 18.12 <19"
+    "node": ">= 18.12 <19",
+    "pnpm": ">=8"
   },
   "devDependencies": {
     "@total-typescript/ts-reset": "^0.5.1",
